@@ -1,0 +1,15 @@
+Device: Xiaomi Redmi 10C
+Device code name : fog
+Device maintainer: RazaDroid
+
+Date - 01/11/2025
+=================
+- Disable blur
+
+Date - 22/10/2025
+=================
+- Add OTA support
+
+Date - 22/10/2025
+=================
+- Initial Build
